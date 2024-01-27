@@ -2,10 +2,19 @@
 
 # Install & Run commands:
 1. Clone the repository
-2. cd FAC_Web
-3. npm i
-4. (if no errors move ahead) npm i --legacy-peer-deps
-5. npm run dev
+2. ```bash
+    cd FAC_Web
+   ```
+3. ```bash
+    npm i
+   ```
+5. (if no errors move ahead)
+   ```bash
+    npm i --legacy-peer-deps
+   ``` 
+7. ```bash
+    npm run dev
+   ``` 
 
 To view the components storybook:
 
